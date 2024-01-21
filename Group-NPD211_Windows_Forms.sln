@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Moving_Button", "01_Moving_Button\01_Moving_Button.csproj", "{EDDC2097-9F8E-4685-9C2B-DC556195AAAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDDC2097-9F8E-4685-9C2B-DC556195AAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDC2097-9F8E-4685-9C2B-DC556195AAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDC2097-9F8E-4685-9C2B-DC556195AAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDC2097-9F8E-4685-9C2B-DC556195AAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACBA5ED3-B72F-4A2D-819E-E5C14E78B64D}
+	EndGlobalSection
+EndGlobal
