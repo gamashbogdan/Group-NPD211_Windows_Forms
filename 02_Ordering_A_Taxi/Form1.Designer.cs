@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.labelName = new System.Windows.Forms.Label();
             this.labelNumberPhone = new System.Windows.Forms.Label();
             this.labelTypeOfTaxi = new System.Windows.Forms.Label();
@@ -190,6 +191,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(437, 348);
             this.Controls.Add(this.checkBoxIsTrue);
             this.Controls.Add(this.textBoxAddress);
@@ -205,7 +207,7 @@
             this.Controls.Add(this.labelNumberPhone);
             this.Controls.Add(this.labelName);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Taxi Bogdana";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownNumberOfPassengers)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
