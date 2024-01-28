@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34302.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Moving_Button", "01_Moving_Button\01_Moving_Button.csproj", "{EDDC2097-9F8E-4685-9C2B-DC556195AAAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Ordering_A_Taxi", "02_Ordering_A_Taxi\02_Ordering_A_Taxi.csproj", "{F12C4D60-B064-4FEC-AB8E-A18B87120D75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EDDC2097-9F8E-4685-9C2B-DC556195AAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDDC2097-9F8E-4685-9C2B-DC556195AAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDDC2097-9F8E-4685-9C2B-DC556195AAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12C4D60-B064-4FEC-AB8E-A18B87120D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12C4D60-B064-4FEC-AB8E-A18B87120D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12C4D60-B064-4FEC-AB8E-A18B87120D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12C4D60-B064-4FEC-AB8E-A18B87120D75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
